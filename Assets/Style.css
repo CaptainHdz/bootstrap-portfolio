@@ -1,0 +1,15 @@
+.font {
+    color: rgb(255, 255, 255) ;
+}
+.profpic {
+    float: left;
+}
+
+body {
+    background-image: url(https://images.wallpaperscraft.com/image/points_cubes_background_light_91691_1920x1080.jpg)
+}
+
+.container {
+height: 400px
+
+}
