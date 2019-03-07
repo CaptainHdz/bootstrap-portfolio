@@ -9,7 +9,29 @@ body {
     background-image: url(https://images.wallpaperscraft.com/image/points_cubes_background_light_91691_1920x1080.jpg)
 }
 
-.container {
-height: 400px
+.container img {
+    width: 250px;
+    height:250px;
+    position: relative;
 
 }
+
+.incont {
+
+    height: 400px;
+}
+
+.container h4 {
+    Background-color: rgb(0,206,209);
+    text-align: center;
+    font-size: 1.5rem;
+    margin-top: 5px;
+}
+
+.msg {
+    height: 5rem;
+}
+
+
+
+
